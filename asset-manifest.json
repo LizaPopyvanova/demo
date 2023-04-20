@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lizapopyvanova.github.io/demo/static/css/main.64ea2e6c.css",
+    "main.js": "/lizapopyvanova.github.io/demo/static/js/main.dffada82.js",
+    "static/media/pick.png": "/lizapopyvanova.github.io/demo/static/media/pick.70ac66a44a9b3620e193.png",
+    "index.html": "/lizapopyvanova.github.io/demo/index.html",
+    "main.64ea2e6c.css.map": "/lizapopyvanova.github.io/demo/static/css/main.64ea2e6c.css.map",
+    "main.dffada82.js.map": "/lizapopyvanova.github.io/demo/static/js/main.dffada82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64ea2e6c.css",
+    "static/js/main.dffada82.js"
+  ]
+}
